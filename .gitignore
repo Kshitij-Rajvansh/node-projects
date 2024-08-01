@@ -61,3 +61,8 @@ bower_components
 
 # TernJS
 .tern-port
+
+
+# App assets
+image-to-pdf/public/images
+image-to-pdf/public/pdf
